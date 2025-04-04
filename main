@@ -138,6 +138,13 @@
   \resumeSubHeadingListStart
 
   \resumeSubheading
+    {Software Engineering Intern}{May. 2025 -- Aug. 2025}
+    {Rocket Mortgage}{Detroit, MI}
+  \resumeItemListStart
+    \resumeItem{Work with a team of 10 to develop internal tool, Navigator.}
+  \resumeItemListEnd
+
+  \resumeSubheading
     {Teaching Assistant for Python Programming 1}{Jan. 2025 -- Present}
     {Michigan State University}{East Lansing, MI}
   \resumeItemListStart
