@@ -128,7 +128,7 @@
     \small{\item{
      \textbf{Languages}{: Python, C++, C, JavaScript, ARM Assembly, Linux} \\
      \textbf{Developer Tools}{: Github, GitLab, PyCharm, VS Code, CLion, React, React Native, Visual Paradigm, AWS} \\
-     \textbf{Libraries}{: NumPy, SymPy, PyGame, Matplotlib, Pandas, Datetime, Mongoose}
+     \textbf{Libraries}{: NumPy, SymPy, Sklearn, PyGame, Matplotlib, Pandas, Datetime, Mongoose}
     }}\\
  \end{itemize}
 
@@ -141,14 +141,15 @@
     {Software Engineering Intern}{May. 2025 -- Aug. 2025}
     {Rocket Mortgage}{Detroit, MI}
   \resumeItemListStart
-    \resumeItem{Work with a team of 10 to develop internal tool, Navigator.}
+    \resumeItem{Collaborated with a team of 10 to develop an internal productivity tool, \textbf{Navigator}}
+    \resumeItem{Develop features for an AI chat-bot that can assist employees in working more efficiently}
   \resumeItemListEnd
 
   \resumeSubheading
     {Teaching Assistant for Python Programming 1}{Jan. 2025 -- Present}
     {Michigan State University}{East Lansing, MI}
   \resumeItemListStart
-    \resumeItem{Teach two 2-hour lab sessions weekly, each with 50 students, covering project work and class content}
+    \resumeItem{Teach two 2-hour lab sessions weekly, each with 50 students, covering course content and project assistance}
     \resumeItem{Assist students in person with programming questions in help rooms and virtually on discussion forums}
   \resumeItemListEnd
 
@@ -157,7 +158,7 @@
       {Kennel Geek}{Seymour, IN}
       \resumeItemListStart
         \resumeItem{Resolved 20+ React and back-end dependency issues, completing 4 project milestones in 3 weeks}
-        \resumeItem{Updated and restored the full stack of code by fixing code deprecations due to upgrading the database version.}
+        \resumeItem{Updated and restored the full stack of code by fixing code deprecations due to upgrading the database version}
       \resumeItemListEnd
 
           \resumeSubheading
@@ -168,12 +169,6 @@
         \resumeItem{Encouraged test driven development to create an outline for a mobile app with React Native}
       \resumeItemListEnd
 
-    \resumeSubheading
-      {Server}{June 2023 -- Jan. 2024}
-      {Carrabba's Italian Grill}{Portage, MI}
-      \resumeItemListStart
-        \resumeItem{Served up to 5 tables simultaneously, ensuring efficient coordination with bussers and cooks for timely service}
-        \resumeItem{Handled cash transactions and tips with accuracy, maintaining financial accountability for the restaurant}
 
       \resumeItemListEnd
 
