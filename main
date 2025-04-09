@@ -128,7 +128,7 @@
     \small{\item{
      \textbf{Languages}{: Python, C++, C, JavaScript, ARM Assembly, Linux} \\
      \textbf{Developer Tools}{: Github, GitLab, PyCharm, VS Code, CLion, React, React Native, Visual Paradigm, AWS} \\
-     \textbf{Libraries}{: NumPy, SymPy, Sklearn, PyGame, Matplotlib, Pandas, Datetime, Mongoose}
+     \textbf{Libraries}{: NumPy, SymPy, PyGame, Matplotlib, Pandas, Datetime, Mongoose}
     }}\\
  \end{itemize}
 
@@ -153,12 +153,13 @@
     \resumeItem{Assist students in person with programming questions in help rooms and virtually on discussion forums}
   \resumeItemListEnd
 
+
     \resumeSubheading
       {Software Developer Contractor}{Dec. 2024 -- Jan. 2025}
       {Kennel Geek}{Seymour, IN}
       \resumeItemListStart
         \resumeItem{Resolved 20+ React and back-end dependency issues, completing 4 project milestones in 3 weeks}
-        \resumeItem{Updated and restored the full stack of code by fixing code deprecations due to upgrading the database version}
+        \resumeItem{Updated and restored the full stack of code by fixing code deprecations due to upgrading the database version.}
       \resumeItemListEnd
 
           \resumeSubheading
@@ -169,8 +170,6 @@
         \resumeItem{Encouraged test driven development to create an outline for a mobile app with React Native}
       \resumeItemListEnd
 
-
-      \resumeItemListEnd
 
 
 
